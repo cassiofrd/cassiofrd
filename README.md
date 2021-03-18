@@ -1,6 +1,6 @@
 Hi. I'm @cassiofrd. I'm insterested in machine learning (microdata and bigdata) and statistics in general.
 I have a good knowledge in softwares and langueges used in this area: Python, PySpark, R, Stata and Excel.
-I worked in this area at Fundação Dom Cabral (2017-2019) and have undergraduation and master degree in Economics (2016).
+I worked in this area at Fundação Dom Cabral (2017-2019) and have a graduation in Economics (2016).
 
 <!---
 cassiofrd/cassiofrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
